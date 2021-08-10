@@ -5,9 +5,9 @@
 
 ### 💬 Languages
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E87D25?style=for-the-badge&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4FA54B?style=for-the-badge&logo=gnubash&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
 ### 🛠 Tools
