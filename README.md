@@ -17,11 +17,11 @@
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3EA145?style=for-the-badge&logo=mongodb&logoColor=white)
-![SocketIO](https://img.shields.io/badge/SocketIO-87C23C?style=for-the-badge&logo=socketdotio&logoColor=white)
+<!-- [SocketIO](https://img.shields.io/badge/SocketIO-87C23C?style=for-the-badge&logo=socketdotio&logoColor=white) -->
 
 ### ☁️ Platforms
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-D94830?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-D94830?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-1777F9?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### 💻 OS
