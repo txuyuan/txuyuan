@@ -34,6 +34,6 @@
 ### 📈  Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=txuyuan&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fa8b02&title_color=fa8b02&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=txuyuan&theme=dark&hide_border=true&background=0e1116">
+  <img src="https://github-readme-stats.vercel.app/api?username=txuyuan&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fbd25e&title_color=eb9930&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=txuyuan&theme=great-gatsby&hide_border=true&background=0e1116">
 </p>
