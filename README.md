@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋 , I'm Xuyuan</h2>
 <h3 align="center">A student who enjoys tinkering with stuff</h3>
 
-<br>
 <b>Currently working on Swift and debugging PW 😝</b>
 
 ### 💬 Languages
@@ -31,7 +30,7 @@
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<br>
+<br></br>
 ### 📈 Statistics
 
 <p align="left">
