@@ -1,10 +1,10 @@
 <h2 align="left">Hi there 👋 , I'm Xuyuan</h2>
-<h3 align="left">A student who enjoys tinkering with stuff</h3>
-
-<h3>Currently working on Swift and debugging PW 😝</h3>
 
 [![Github Followers](https://img.shields.io/github/followers/txuyuan?style=flat-square&label=Follow)](https://github.com/txuyuan)
 [![GitHub Stars](https://img.shields.io/github/stars/txuyuan?labelColor=495867&color=495867&label=Total%20Stars&style=flat-square&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAahJREFUeNrt20eC4zAMRFH9+196lpMEymB/FzqwtnIBzzlfXzsAML0ffiwARgXzABgWTANgWDANgGHBNACGBdMAbvKjANxm6FlgAsA9gKGnwTyACsDQ64A0gBrA0AuhLIAVgChg5tUhawBBwMwLZJ4AxAAz7xF4BhACzLxN4hUAEcDMO0VeAxAA9I+a2x8BwMh7AP6Pt7kBMByss1mjsVkA1Gl2iwHuFMgDwNovCNqlOu8EXI24gGs7HwVcUjYA6U91jO19Q30ktT8gaOxI3wb6x/39WUH/BUVwf0Cw93Qa2h8Q7D+f+vuxT+7v1wX8GaEi7PdL/ihN4Lymk/YLVWG/VPZH+HV/wPxFOHwjUrpBgf9AglPcF/jFAziA3hikZvB8HMAByE8FSjd8LhKAA1geVF8QCYd9AH/k3YC9HzS+E8BNggCKhAAs4gJu5/KQom8BeCE+gHr9miADqlXcRAbUa2qaDShWrAnaxwNX505/W/O/deyfvJ/2vBhArfQBrZIPUGv9QftNBSB0c//h0AH5/uXeioWPCPMjul1/RlF1h5ycnJycnPwCoWgNq2wMrjsAAAAASUVORK5CYII=)](https://github.com/txuyuan)
+
+<h3 align="left">A student who enjoys tinkering with stuff</h3>
+<h3>Currently working on Swift and debugging PW 😝</h3>
 
 ### 💬  Languages
 
