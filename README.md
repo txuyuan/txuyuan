@@ -32,6 +32,8 @@
 
 [![macOS](https://img.shields.io/badge/macOS-3194F1?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/macos/big-sur)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-DE4815?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/sg/ios/ios-14)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.apple.com/sg/ios/ios-14)
 
