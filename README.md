@@ -10,6 +10,8 @@
 
 [![Java](https://img.shields.io/badge/Java-E87D25?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7272E2?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Bash](https://img.shields.io/badge/Bash-4FA54B?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
@@ -18,7 +20,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-3EA145?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=oracle&logoColor=white)](https://www.graalvm.org)
-[![VMWare](https://img.shields.io/badge/VMWare-F38B00?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
 [![SocketIO](https://img.shields.io/badge/SocketIO-87C23C?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
@@ -29,7 +30,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txuyuan)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-D94830?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Firebase](https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Digital Ocean](https://img.shields.io/badge/DigitalOcean-1777F9?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 
 ### 💻  OS
 
