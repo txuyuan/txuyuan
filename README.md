@@ -17,7 +17,7 @@
 ### 🛠  Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-3EA145?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=graalvm&logoColor=white)](https://www.graalvm.org)
+[![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=oracle&logoColor=white)](https://www.graalvm.org)
 [![VMWare](https://img.shields.io/badge/VMWare-F38B00?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
 [![SocketIO](https://img.shields.io/badge/SocketIO-87C23C?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
