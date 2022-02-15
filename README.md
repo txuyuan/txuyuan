@@ -7,30 +7,31 @@
 
 ### 💬  Languages
 
-[![Java](https://img.shields.io/badge/Java-E87D25?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7272E2?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Bash](https://img.shields.io/badge/Bash-4FA54B?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 
 
 ### 🛠  Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-3EA145?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=oracle&logoColor=white)](https://www.graalvm.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ### ☁️  Platforms
 
-[![Intellij Idea](https://img.shields.io/badge/intellij_idea-ED3E51?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea)
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txuyuan)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-D94830?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Intellij Platform](https://img.shields.io/badge/intellij_platform-ED3E51?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txuyuan)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
 ### 💻  OS
 
 [![macOS](https://img.shields.io/badge/macOS-3194F1?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/macos/big-sur)
+[![iOS](https://img.shields.io/badge/iOS-616161?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/sg/ios/ios-15)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/sg/ios/ios-14)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 
 ### 📈  Statistics
