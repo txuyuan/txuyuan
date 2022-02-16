@@ -18,12 +18,13 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=oracle&logoColor=white)](https://www.graalvm.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 ### ☁️  Platforms
 
 [![Intellij Platform](https://img.shields.io/badge/intellij_platform-ED3E51?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea)
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txuyuan)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
 ### 💻  OS
