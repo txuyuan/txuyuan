@@ -29,10 +29,10 @@
 
 ### 💻  OS
 
-[![macOS](https://img.shields.io/badge/macOS-3194F1?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/macos/big-sur)
-[![iOS](https://img.shields.io/badge/iOS-616161?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/sg/ios/ios-15)
+[![macOS](https://img.shields.io/badge/macOS-0a84ff?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/macos/big-sur)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![iOS](https://img.shields.io/badge/iOS-0a84ff?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/ios/ios-15)
 
 
 ### 📈  Statistics
