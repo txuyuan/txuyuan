@@ -11,33 +11,33 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-csUS/docs/Glossary/HTML5)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### 🖼️  Frameworks
+
+[![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ### 🛠  Tools
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![GraalVM](https://img.shields.io/badge/GraalVM-0C7C94?style=for-the-badge&logo=oracle&logoColor=white)](https://www.graalvm.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-
-### ☁️  Platforms
-
-[![Intellij Platform](https://img.shields.io/badge/intellij_platform-ED3E51?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea)
-[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
-### 💻  OS
+### 🖥️ Dev Tools
 
-[![macOS](https://img.shields.io/badge/macOS-0a84ff?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/macos/big-sur)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![iOS](https://img.shields.io/badge/iOS-0a84ff?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/sg/ios/ios-15)
-
+[![Neovim](https://img.shields.io/badge/NVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Intellij](https://img.shields.io/badge/IntelliJ-ED3E51?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
 
 ### 📈  Statistics
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=txuyuan&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fbd25e&title_color=eb9930&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=txuyuan&theme=great-gatsby&hide_border=true&background=0e1116">
 </p>
