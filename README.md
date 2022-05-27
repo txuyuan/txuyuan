@@ -31,7 +31,7 @@
 
 ### 🖥️ Dev Tools
 
-[![Neovim](https://img.shields.io/badge/NVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Intellij](https://img.shields.io/badge/IntelliJ-ED3E51?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
 
