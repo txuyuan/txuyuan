@@ -36,10 +36,3 @@
 [![Zsh](https://img.shields.io/badge/%3E%20zsh-121011?style=for-the-badge&logoColor=white)](https://www.zsh.org)
 [![Intellij](https://img.shields.io/badge/IntelliJ-ED3E51?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea)
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode)
-
-### 📈  Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=txuyuan&show_icons=true&locale=en&count_private=true&bg_color=0e1116&text_color=fdfdfd&icon_color=fbd25e&title_color=eb9930&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=txuyuan&theme=great-gatsby&hide_border=true&background=0e1116">
-</p>
