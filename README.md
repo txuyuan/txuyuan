@@ -2,8 +2,6 @@
 
 <h3 align="left">A student who enjoys tinkering with stuff</h3>
 
-<h3 align="left">See my <a href="https://xuyuan.me" target="_blank">Portfolio</a>! </h3>
-
 
 ### 💬  Languages
 
